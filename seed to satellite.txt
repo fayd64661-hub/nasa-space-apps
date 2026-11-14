@@ -1,0 +1,533 @@
+ 
+<!-- Explain: Homepage shell with hero and feature sections. -->
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" class="scroll-smooth">
+<head><script>window.isManagment = "1";</script><base href="https://6af7fc4f4421e.site123.me/"><script>window.IsManagment = "1";window.APP_PROJECT_ID = "1eb9bee453f52195739f8628ae977e9d";window.__CDN_BASE_URL__ = "https:\/\/cdn-cms-s-8-4.f-static.net\/manager\/ai_app_builder\/v3\/assets\/";window.APP_CURRENCIES = {"isActive":false,"currencies":{"EGP":{"code":"EGP","label":"Egypt Pound","symbol":"\u0026#1580;.\u0026#1605;","symbolFirst":true,"rate":1,"isDefault":true}}};window.APP_TAX = {"productsTax":"","regions":[{"id":384735741,"regionName":"Rest of the World","countries":{"REST_WORLD":{}},"tax":{"option":"differentTax","differentTax":{"REST_WORLD":0},"basedOn":"shippingAddress","taxCalAfterShipping":false}},{"id":384735742,"regionName":"Egypt","countries":{"EGY":{}},"tax":{"option":"differentTax","differentTax":{"EGY":0},"basedOn":"shippingAddress","taxCalAfterShipping":false}}],"countryOptions":[{"code":"EGY","name":"Egypt","states":[],"requiresState":false},{"code":"REST_WORLD","name":"REST_WORLD","states":[],"requiresState":false}]};window.APP_BUILDER_BASE_PATH = "\/manager\/ai_app_builder\/v3";window.APP_BUILDER_REALTIME_ENABLED = true;</script><link rel="stylesheet" href="https://cdn-cms-s-8-4.f-static.net/versions/2/system_mini/css/minimize_appBuilder_v3.css?v=vc1794491848" type="text/css" crossorigin="anonymous"><link rel="preconnect" href="https://cdnjs.cloudflare.com"><link rel="dns-prefetch" href="https://images.cdn-files-a.com">
+<!-- Regular Meta Info -->
+<title>من البذرة إلى القمر الصناعي | اختبر دورة المحاصيل على 20 سنة...</title>
+<meta name="description" content="اختار مكانك ومحاصيلك، وشوف 3 دورات زراعية مقترحة متجرية على 20 سنة من بيانات ناسا، مع درجة لكل دورة ومقارنة بالدورة التقليدية.">
+<meta name="keywords" content="تقييم الدورة الزراعية">
+<link rel="canonical" href="https://6af7fc4f4421e.site123.me/"/>
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://images.cdn-files-a.com/admin/InterfaceStatisFiles/allOther/ads/site123/brand_kit_2026/SITE123-Logo-2026/web/icon-512.png?aspect_ratio=1:1&amp;width=48&amp;format=png" type="image/x-icon">
+<link rel="icon" href="https://images.cdn-files-a.com/admin/InterfaceStatisFiles/allOther/ads/site123/brand_kit_2026/SITE123-Logo-2026/web/icon-512.png?aspect_ratio=1:1&amp;width=48&amp;format=png" type="image/x-icon">
+<!-- Facebook Meta Info -->
+<meta property="og:url" content="https://6af7fc4f4421e.site123.me/">
+<meta property="og:image" content="https://files.cdn-files-a.com/admin/system_photos_stock/normal_6aee4c7f9f02e.jpg?format=avif">
+<meta property="og:description" content="اختار مكانك ومحاصيلك، وشوف 3 دورات زراعية مقترحة متجرية على 20 سنة من بيانات ناسا، مع درجة لكل دورة ومقارنة بالدورة التقليدية.">
+<meta property="og:title" content="من البذرة إلى القمر الصناعي | اختبر دورة المحاصيل على 20 سنة...">
+<meta property="og:site_name" content="من البذرة إلى القمر الصناعي | اختبر دورة المحاصيل على 20 سنة...">
+<meta property="og:see_also" content="https://6af7fc4f4421e.site123.me">
+<!-- Google+ Meta Info -->
+<meta itemprop="name" content="من البذرة إلى القمر الصناعي | اختبر دورة المحاصيل على 20 سنة...">
+<meta itemprop="description" content="اختار مكانك ومحاصيلك، وشوف 3 دورات زراعية مقترحة متجرية على 20 سنة من بيانات ناسا، مع درجة لكل دورة ومقارنة بالدورة التقليدية.">
+<meta itemprop="image" content="https://files.cdn-files-a.com/admin/system_photos_stock/normal_6aee4c7f9f02e.jpg?format=avif">
+<!-- Twitter Meta Info -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://6af7fc4f4421e.site123.me/">
+<meta name="twitter:title" content="من البذرة إلى القمر الصناعي | اختبر دورة المحاصيل على 20 سنة...">
+<meta name="twitter:description" content="اختار مكانك ومحاصيلك، وشوف 3 دورات زراعية مقترحة متجرية على 20 سنة من بيانات ناسا، مع درجة لكل دورة ومقارنة بالدورة التقليدية.">
+<meta name="twitter:image" content="https://files.cdn-files-a.com/admin/system_photos_stock/normal_6aee4c7f9f02e.jpg?format=avif">
+
+    <!-- Explain: Shared head content including metadata, CDNs, and stylesheets. -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/minimize_css/index.css?t=css_y254_67311977&w=12644058">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/css/theme.css?t=css_y254_67311977&w=12644058">
+<link rel="stylesheet" href="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/css/main.css?t=css_y254_67311977&w=12644058">
+<link rel="stylesheet" href="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/css/components.css?t=css_y254_67311977&w=12644058">
+<link rel="stylesheet" href="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/css/layout.css?t=css_y254_67311977&w=12644058">
+<link rel="stylesheet" href="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/css/hero.css?t=css_y254_67311977&w=12644058"></head>
+<body class="min-h-screen bg-[var(--background-color)] text-[var(--text-color)]" style="font-family: var(--font-body);">
+    <!-- Explain: Shared sticky header with navigation links and language switcher. -->
+<header class="site-header">
+    <div class="inner-max header-inner">
+        <div class="header-top">
+            <a href="#top" class="brand">
+                <span class="brand-mark" aria-hidden="true"><i class="fa-solid fa-seedling"></i></span>
+                <span>
+                    <span class="brand-name" data-i18n="brand">من البذرة إلى القمر الصناعي</span>
+                    <span class="brand-sub" data-i18n="brand.tag">اختبر خطتك قبل ما تزرع</span>
+                </span>
+            </a>
+
+            <div class="header-left">
+                <div class="lang-switch" role="group" aria-label="Language">
+                    <button type="button" class="lang-btn" data-lang="fr">Français</button>
+                    <button type="button" class="lang-btn" data-lang="en">English</button>
+                    <button type="button" class="lang-btn" data-lang="ar">العربية</button>
+                </div>
+                <button type="button" id="menuBtn" class="menu-btn" aria-expanded="false" aria-controls="mobileMenu" aria-label="Menu">
+                    <i class="fa-solid fa-bars" aria-hidden="true"></i>
+                </button>
+            </div>
+        </div>
+
+        <nav class="header-nav" aria-label="Main navigation">
+            <a href="#tool" class="nav-link" data-i18n="nav.tool">الأداة</a>
+            <a href="#evidence" class="nav-link" data-i18n="nav.evidence">سنة صعبة حقيقية</a>
+            <a href="#how" class="nav-link" data-i18n="nav.how">إزاي بنحسب</a>
+            <a href="methodology.html" class="nav-link" data-i18n="nav.method">المنهجية</a>
+            <a href="#team" class="nav-link" data-i18n="nav.team">الفريق</a>
+        </nav>
+
+        <div id="mobileMenu" class="mobile-menu">
+            <a href="#tool" data-i18n="nav.tool">الأداة</a>
+            <a href="#evidence" data-i18n="nav.evidence">سنة صعبة حقيقية</a>
+            <a href="#how" data-i18n="nav.how">إزاي بنحسب</a>
+            <a href="methodology.html" data-i18n="nav.method">المنهجية</a>
+            <a href="#team" data-i18n="nav.team">الفريق</a>
+        </div>
+    </div>
+</header>    <main id="top">
+        <!-- Explain: Homepage hero section with scientific and advanced design. -->
+<section class="hero-x">
+    <div class="hero-x-media" aria-hidden="true"></div>
+    <div class="hero-x-frame" aria-hidden="true"></div>
+
+    <div class="inner-max hero-x-inner">
+        <div class="hero-x-top">
+            <span class="hero-x-chip">
+                <span class="hero-x-dot" aria-hidden="true"></span>
+                <span data-i18n="hero.pill">NASA Space Apps · مصر</span>
+            </span>
+            <span class="hero-x-coord">MODEL v1.0 · 30.79°N 31.00°E · 2005—2024</span>
+        </div>
+
+        <div class="hero-x-body">
+            <div class="hero-x-copy">
+                <h1 class="hero-x-title">
+                    <span data-i18n="hero.h1a">مش بس بنقولك الوضع إيه دلوقتي؛</span>
+                    <span class="accent" data-i18n="hero.h1b">بنختبر خطتك قبل ما تزرع.</span>
+                </h1>
+
+                <p class="hero-x-lede" data-i18n="hero.lede">اختار مكانك والمحاصيل اللي تقدر تزرعها، وإحنا نقترح عليك 3 دورات زراعية ونجرب كل واحدة على 20 سنة طقس حقيقي من بيانات ناسا.</p>
+
+                <div class="hero-x-actions">
+                    <a href="#tool" class="btn-accent btn-lg">
+                        <span data-i18n="hero.cta1">ابدأ الاختبار</span>
+                        <i class="fa-solid fa-arrow-down" aria-hidden="true"></i>
+                    </a>
+                    <button type="button" class="btn-hero-ghost btn-lg" data-harsh="auto">
+                        <i class="fa-solid fa-fire" aria-hidden="true"></i>
+                        <span data-i18n="hero.cta2">شوف السنة الصعبة</span>
+                    </button>
+                </div>
+            </div>
+
+            <aside class="hero-x-card">
+                <div class="hero-x-card-head">
+                    <span class="hero-x-card-title" data-i18n="hero.panel.t">بطاقة النموذج</span>
+                    <span class="hero-x-card-meta">MODEL v1.0</span>
+                </div>
+                <p class="hero-x-card-sub" data-i18n="hero.panel.s">مصدر البيانات ونطاق التشغيل</p>
+
+                                <dl class="hero-x-specs">
+                                        <div class="hero-x-spec">
+                        <dt data-i18n="hero.card.src">المصدر</dt>
+                        <dd class="num">NASA POWER</dd>
+                    </div>
+                                        <div class="hero-x-spec">
+                        <dt data-i18n="hero.card.regions">المناطق</dt>
+                        <dd class="num">3</dd>
+                    </div>
+                                        <div class="hero-x-spec">
+                        <dt data-i18n="hero.card.valid">سنة التحقق</dt>
+                        <dd class="num">2015</dd>
+                    </div>
+                                    </dl>
+
+                <div class="hero-x-chart">
+                    <div class="hero-x-chart-head">
+                        <span>&#916;T &#176;C</span>
+                        <span>ANOMALY</span>
+                    </div>
+                    <svg class="hero-x-svg" viewBox="0 0 200 70" role="img" aria-label="Temperature anomaly from 2005 to 2024">
+                        <line x1="4" y1="20" x2="196" y2="20"></line>
+                        <line x1="4" y1="35" x2="196" y2="35"></line>
+                        <line x1="4" y1="50" x2="196" y2="50"></line>
+                        <polyline points="4,56 14.1,47 24.2,41 34.3,50 44.4,38 54.5,32 64.6,44 74.7,35 84.8,41 94.9,29 105,17 115.1,26 125.2,38 135.3,32 145.4,23 155.5,29 165.6,20 175.7,26 185.8,14 195.9,20"></polyline>
+                        <circle cx="105" cy="17" r="2.6"></circle>
+                        <text x="105" y="11" text-anchor="middle">2015</text>
+                    </svg>
+                    <div class="hero-x-chart-foot">
+                        <span>2005</span>
+                        <span>2024</span>
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+        <div class="hero-x-strip">
+                        <dl class="hero-x-index">
+                                <div class="hero-x-metric">
+                    <dt class="v num">20</dt>
+                    <dd class="l" style="margin:0" data-i18n="stat.years">سنة طقس حقيقي (2005–2024)</dd>
+                </div>
+                                <div class="hero-x-metric">
+                    <dt class="v num">175</dt>
+                    <dd class="l" style="margin:0" data-i18n="stat.points">نقطة قياس مناخية في مصر</dd>
+                </div>
+                                <div class="hero-x-metric">
+                    <dt class="v num">7</dt>
+                    <dd class="l" style="margin:0" data-i18n="stat.crops">محاصيل متاحة للاختبار</dd>
+                </div>
+                            </dl>
+        </div>
+    </div>
+</section>        <!-- Explain: Tool section for user inputs: location, crops, and priority selection. -->
+<section class="section-pad" id="tool">
+    <div class="inner-max">
+        <div class="section-head">
+            <span class="tag"><i class="fa-solid fa-list-check" aria-hidden="true"></i> <span data-i18n="setup.kicker">التشغيل</span></span>
+            <h2 class="section-title" data-i18n="setup.title">3 خطوات، وتطلعلك 3 دورات مقترحة</h2>
+            <p class="section-sub" data-i18n="setup.sub">المكان والمحاصيل وأهم حاجة عندك — والباقي نحسبه إحنا.</p>
+        </div>
+
+        <div class="step-block">
+            <div class="step-head">
+                <span class="n">1</span>
+                <h3 data-i18n="setup.loc">مكانك فين؟</h3>
+            </div>
+            <div id="locGroup" class="loc-list"></div>
+        </div>
+
+        <div class="step-block">
+            <div class="step-head">
+                <span class="n">2</span>
+                <h3 data-i18n="setup.crops">هتزرع إيه؟</h3>
+            </div>
+            <p class="mini-label" data-i18n="setup.winter">شتوي</p>
+            <div id="winterGroup" class="chip-row"></div>
+            <p class="mini-label mt-4" data-i18n="setup.summer">صيفي</p>
+            <div id="summerGroup" class="chip-row"></div>
+
+            <label class="toggle-row">
+                <input id="fallowToggle" type="checkbox">
+                <span class="switch-ui" aria-hidden="true"></span>
+                <span data-i18n="setup.fallow">ممكن أسيب الأرض ترتاح في الصيف</span>
+            </label>
+        </div>
+
+        <div class="step-block">
+            <div class="step-head">
+                <span class="n">3</span>
+                <h3 data-i18n="setup.pri">إيه الأهم عندك؟</h3>
+            </div>
+
+                        <div id="priGroup" class="pri-grid">
+                                <button type="button" class="pri-card" data-pri="water">
+                    <span class="ico"><i class="fa-solid fa-droplet" aria-hidden="true"></i></span>
+                    <span>
+                        <strong data-i18n="pri.water">أوفر مية</strong>
+                        <span data-i18n="pri.water.d">أقل استهلاك للمية في الدورة</span>
+                    </span>
+                </button>
+                                <button type="button" class="pri-card" data-pri="profit">
+                    <span class="ico"><i class="fa-solid fa-coins" aria-hidden="true"></i></span>
+                    <span>
+                        <strong data-i18n="pri.profit">أكسب أكثر</strong>
+                        <span data-i18n="pri.profit.d">محاصيل ليها عائد أعلى</span>
+                    </span>
+                </button>
+                                <button type="button" class="pri-card" data-pri="soil">
+                    <span class="ico"><i class="fa-solid fa-seedling" aria-hidden="true"></i></span>
+                    <span>
+                        <strong data-i18n="pri.soil">أرض أنضف</strong>
+                        <span data-i18n="pri.soil.d">بقوليات وتنويع يحسّن التربة</span>
+                    </span>
+                </button>
+                                <button type="button" class="pri-card is-on" data-pri="resilience">
+                    <span class="ico"><i class="fa-solid fa-shield-halved" aria-hidden="true"></i></span>
+                    <span>
+                        <strong data-i18n="pri.resilience">أضمن أمان</strong>
+                        <span data-i18n="pri.resilience.d">أقل خسارة في السنين الصعبة</span>
+                    </span>
+                </button>
+                            </div>
+        </div>
+
+        <div class="mt-8 flex flex-wrap items-center gap-4">
+            <button type="button" id="runBtn" class="btn-primary btn-lg">
+                <i class="fa-solid fa-play" aria-hidden="true"></i>
+                <span data-i18n="setup.run">شغّل التقييم</span>
+            </button>
+            <p class="note max-w-sm" data-i18n="setup.hint">اختار محصول شتوي ومحصول صيفي على الأقل — التتابع محتاج الاتنين.</p>
+        </div>
+    </div>
+</section>        <!-- Explain: Tool section for climate scenario sliders and comparison. -->
+<section class="pb-10" id="climate">
+    <div class="inner-max">
+        <div class="dark-panel">
+            <h2 data-i18n="cl.title">لو الظروف اتغيرت؟</h2>
+            <p class="sub" data-i18n="cl.sub">خطتك ثابتة، والسيناريو بيختبرها. حرّك وشوف الدرجات بتتغير.</p>
+
+            <div class="slider-row">
+                <span class="lbl"><i class="fa-solid fa-temperature-high" aria-hidden="true"></i> <span data-i18n="cl.temp">الحرارة تزيد</span></span>
+                <span class="val" id="tempVal">0°</span>
+            </div>
+            <input id="tempSlider" class="range-dark" type="range" min="-1" max="4" step="0.5" value="0" aria-label="Temperature change">
+
+            <div class="slider-row">
+                <span class="lbl"><i class="fa-solid fa-water" aria-hidden="true"></i> <span data-i18n="cl.rain">المية المتاحة تقل</span></span>
+                <span class="val" id="rainVal">0%</span>
+            </div>
+            <input id="rainSlider" class="range-dark" type="range" min="-40" max="20" step="5" value="0" aria-label="Rainfall change">
+
+            <button type="button" id="resetSliders" class="dark-reset">
+                <i class="fa-solid fa-rotate-left" aria-hidden="true"></i>
+                <span data-i18n="cl.reset">رجّع الطبيعة</span>
+            </button>
+        </div>
+    </div>
+</section>        <!-- Explain: Tool section displaying ranked rotation results, summary, and comparison. -->
+<section class="pb-12" id="results">
+    <div class="inner-max">
+        <div class="section-head">
+            <span class="tag"><i class="fa-solid fa-layer-group" aria-hidden="true"></i> <span data-i18n="res.kicker">الاقتراحات</span></span>
+            <h2 class="section-title" data-i18n="res.title">3 دورات مقترحة، متجرية على 20 سنة</h2>
+            <p class="section-sub" data-i18n="res.sub">كل دورة = سنتين: شتوي ← صيفي ← شتوي ← صيفي. جرّبناها 20 مرة، كل مرة تبدأ في سنة مختلفة — طقس زي اللي حصل فعلًا.</p>
+        </div>
+
+        <div id="rotCards" class="rot-stack"></div>
+
+        <p id="resultsNote" class="note mt-3"></p>
+
+        <div id="compareBand" class="compare" hidden></div>
+
+        <div class="flex flex-wrap items-center gap-2.5 mt-6">
+            <button type="button" id="copyBtn" class="btn-outline">
+                <i class="fa-solid fa-copy" aria-hidden="true"></i>
+                <span data-i18n="res.copy">انسخ الملخص</span>
+            </button>
+            <button type="button" class="btn-outline" data-harsh="auto">
+                <i class="fa-solid fa-fire" aria-hidden="true"></i>
+                <span data-i18n="hero.cta2">شوف السنة الصعبة</span>
+            </button>
+        </div>
+    </div>
+</section>        <!-- Explain: Homepage section explaining the four-step scoring process. -->
+<section class="section-pad" id="how">
+    <div class="inner-max">
+        <div class="section-head">
+            <span class="tag"><b>01</b> <span data-i18n="how.kicker">إزاي بنحسب</span></span>
+            <h2 class="section-title" data-i18n="how.title">من بيانات ناسا لدرجة من 100</h2>
+            <p class="section-sub" data-i18n="how.sub">أربع خطوات واضحة، وكل رقم في النتايج تقدر توصل لسببه.</p>
+        </div>
+
+                <div class="pri-grid">
+                        <article class="card">
+                <div class="panel-body">
+                    <div class="flex items-center justify-between gap-2 mb-2">
+                        <span class="num-chip">01</span>
+                        <i class="fa-solid fa-satellite-dish" style="color:var(--primary-color);font-size:0.85rem" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="text-base font-semibold" data-i18n="how.s1t">بنقرا الطقس</h3>
+                    <p class="note mt-1" data-i18n="how.s1d">20 سنة حرارة ومطر لموقعك، متجمّعة من نقاط القياس.</p>
+                </div>
+            </article>
+                        <article class="card">
+                <div class="panel-body">
+                    <div class="flex items-center justify-between gap-2 mb-2">
+                        <span class="num-chip">02</span>
+                        <i class="fa-solid fa-shuffle" style="color:var(--primary-color);font-size:0.85rem" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="text-base font-semibold" data-i18n="how.s2t">بنبني الدورات</h3>
+                    <p class="note mt-1" data-i18n="how.s2d">تتابع شتوي/صيفي لمحاصيلك، بمحصول بقولي كل ما التتابع يسمح.</p>
+                </div>
+            </article>
+                        <article class="card">
+                <div class="panel-body">
+                    <div class="flex items-center justify-between gap-2 mb-2">
+                        <span class="num-chip">03</span>
+                        <i class="fa-solid fa-arrows-rotate" style="color:var(--primary-color);font-size:0.85rem" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="text-base font-semibold" data-i18n="how.s3t">بنجرّب كل سنة</h3>
+                    <p class="note mt-1" data-i18n="how.s3d">كل دورة بتتقاس 20 مرة، كل مرة بتبدأ من سنة مختلفة.</p>
+                </div>
+            </article>
+                        <article class="card">
+                <div class="panel-body">
+                    <div class="flex items-center justify-between gap-2 mb-2">
+                        <span class="num-chip">04</span>
+                        <i class="fa-solid fa-gauge-high" style="color:var(--primary-color);font-size:0.85rem" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="text-base font-semibold" data-i18n="how.s4t">بنطلع الدرجة</h3>
+                    <p class="note mt-1" data-i18n="how.s4d">نجاح السنة عند 70% أو أكتر، وبعدها الأوزان حسب أولويتك.</p>
+                </div>
+            </article>
+                    </div>
+
+        <a href="methodology.html" class="btn-primary mt-6">
+            <i class="fa-solid fa-square-root-variable" aria-hidden="true"></i>
+            <span data-i18n="how.link">المعادلات والافتراضات كاملة</span>
+        </a>
+    </div>
+</section>        <!-- Explain: Homepage section validating the model with a historical heatwave example. -->
+<section class="section-pad" id="evidence" style="background:var(--surface-2);border-top:1px solid var(--border-color);border-bottom:1px solid var(--border-color)">
+    <div class="inner-max pri-grid" style="align-items:start">
+        <div>
+            <span class="tag"><b>02</b> <span data-i18n="ev.kicker">اختبار حقيقي</span></span>
+            <h2 class="section-title" data-i18n="ev.title">جرّبناها على موجة حر أغسطس 2015</h2>
+            <p class="section-sub" data-i18n="ev.body">السنة دي سجّلت حرارة فوق 45°م في مواقع كتير في مصر. الأداة بتحطها في أول السنين الخطرة، وبتقولك أثرها على كل محصول قبل ما تزرع.</p>
+            <button type="button" class="btn-primary mt-5" data-harsh="2015">
+                <i class="fa-solid fa-play" aria-hidden="true"></i>
+                <span data-i18n="ev.cta">شغّل اختبار 2015</span>
+            </button>
+        </div>
+
+        <div class="card">
+            <div class="panel-head">
+                <span class="panel-title"><span class="num">2015</span> — <span data-i18n="ev.meta">الدلتا · طنطا</span></span>
+                <span class="panel-meta">ΔT +2.09 °C</span>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="dt min-w-[20rem]">
+                    <thead>
+                        <tr>
+                            <th data-i18n="ev.row.crop">المحصول</th>
+                            <th data-i18n="ev.row.factor">المعامل</th>
+                            <th data-i18n="ev.row.verdict">الحكم</th>
+                        </tr>
+                    </thead>
+                    <tbody id="evRows"></tbody>
+                </table>
+            </div>
+            <div class="panel-body" style="border-top:1px solid var(--border-color)">
+                <div class="flex items-center justify-between gap-3 text-xs">
+                    <span class="dim" data-i18n="ev.th.tmax">الحرارة القصوى</span>
+                    <span class="num" style="color:var(--danger-color)">45.4 °C</span>
+                </div>
+                <div class="flex items-center justify-between gap-3 text-xs mt-1.5">
+                    <span class="dim" data-i18n="ev.th.rain">المطر الفعلي</span>
+                    <span class="num" style="color:var(--accent-color)">38 mm</span>
+                </div>
+                <p class="note mt-2" data-i18n="ev.note">الأرقام محسوبة من نفس البيانات اللي الأداة بتشتغل عليها.</p>
+            </div>
+        </div>
+    </div>
+</section>        <!-- Explain: Tool section for the AI assistant chat interface. -->
+<section class="section-pad" id="assistant">
+    <div class="inner-max">
+        <div class="card">
+            <div class="panel-head">
+                <span class="panel-title" data-i18n="ai.title">لو عايز تفهم أكتر</span>
+                <span class="panel-meta" data-i18n="ai.sub">اسأل عن أي دورة أو سنة في نتايجك</span>
+            </div>
+            <div class="panel-body">
+                <div id="chatLog" class="chat-log">
+                    <div class="chat-msg bot" data-i18n="ai.welcome">اسألني عن أي دورة أو سنة فاشلة في نتايج التشغيل الحالي.</div>
+                </div>
+
+                <div class="flex flex-wrap gap-1.5 mt-3">
+                    <button type="button" class="sugg-btn" data-ask="ليه الاقتراح الأول هو الأفضل؟" data-i18n="ai.sugg1">ليه الاقتراح الأول هو الأفضل؟</button>
+                    <button type="button" class="sugg-btn" data-ask="إيه أخطر سنة على خطتي؟" data-i18n="ai.sugg2">إيه أخطر سنة على خطتي؟</button>
+                    <button type="button" class="sugg-btn" data-ask="إيه اللي بيتغير عند زيادة الحرارة درجتين؟" data-i18n="ai.sugg3">إيه اللي بيتغير عند +2°م؟</button>
+                    <button type="button" class="sugg-btn" data-ask="إزاي أقلل استهلاك المية في دورتي؟" data-i18n="ai.sugg4">إزاي أقلل استهلاك المية؟</button>
+                    <button type="button" class="sugg-btn" data-ask="ليه المحاصيل البقولية مهمة في الدورة الزراعية؟" data-i18n="ai.sugg5">ليه البقوليات مهمة في الدورة؟</button>
+                    <button type="button" class="sugg-btn" data-ask="إزاي أحمي المحصول من الموجات الحارة؟" data-i18n="ai.sugg6">إزاي أحمي المحصول من الموجات الحارة؟</button>
+                </div>
+
+                <form id="chatForm" class="flex items-center gap-2 mt-3">
+                    <input id="chatInput" class="chat-input" type="text" autocomplete="off" data-i18n-ph="ai.ph" placeholder="اكتب سؤالك…">
+                    <button type="submit" class="chat-send" aria-label="Send" data-i18n="ai.send"><i class="fa-solid fa-paper-plane" aria-hidden="true"></i></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>        <!-- Explain: Homepage section displaying team members with their names and initials. -->
+<section class="section-pad" id="team" style="background:var(--surface-2);border-top:1px solid var(--border-color)">
+    <div class="inner-max">
+        <div class="section-head">
+            <span class="tag"><i class="fa-solid fa-people-group" aria-hidden="true"></i> <span data-i18n="team.kicker">الفريق</span></span>
+            <h2 class="section-title" data-i18n="team.title">الفريق اللي بنى الأداة</h2>
+            <p class="section-sub" data-i18n="team.sub">أربعة أعضاء، فكرة واحدة: مساعدة المزارع يقرر قبل ما يزرع.</p>
+        </div>
+
+                <div class="team-grid">
+                        <article class="team-card">
+                <span class="team-avatar" aria-hidden="true">م</span>
+                <strong class="team-name">مريم سامى</strong>
+                <span class="team-idx num">TEAM 01</span>
+            </article>
+                        <article class="team-card">
+                <span class="team-avatar" aria-hidden="true">ج</span>
+                <strong class="team-name">جنا خالد</strong>
+                <span class="team-idx num">TEAM 02</span>
+            </article>
+                        <article class="team-card">
+                <span class="team-avatar" aria-hidden="true">ح</span>
+                <strong class="team-name">حنين اسلام</strong>
+                <span class="team-idx num">TEAM 03</span>
+            </article>
+                        <article class="team-card">
+                <span class="team-avatar" aria-hidden="true">ش</span>
+                <strong class="team-name">شهد محمد</strong>
+                <span class="team-idx num">TEAM 04</span>
+            </article>
+                    </div>
+    </div>
+</section>        <!-- Explain: Call to action section encouraging users to start the assessment. -->
+<section class="section-pad" style="background:var(--primary-deep)">
+    <div class="inner-max flex flex-col md:flex-row md:items-center md:justify-between gap-6">
+        <div>
+            <h2 class="text-2xl sm:text-3xl" style="color:#ffffff" data-i18n="cta.t">ابدأ من مكانك ومحاصيلك</h2>
+            <p class="mt-2 max-w-xl text-sm leading-8" style="color:#b8cfc5" data-i18n="cta.d">غيّر المكان أو المحاصيل أو الأولوية، وشوف الدرجات والسنين وهي بتتحدّث في نفس الصفحة.</p>
+        </div>
+        <a href="#tool" class="btn-accent btn-lg shrink-0">
+            <i class="fa-solid fa-seedling" aria-hidden="true"></i>
+            <span data-i18n="cta.btn">شغّل التقييم</span>
+        </a>
+    </div>
+</section>    </main>
+    <!-- Explain: Shared footer with copyright, links, and data source information. -->
+<footer class="site-footer">
+    <div class="inner-max">
+        <div class="footer-grid">
+            <div>
+                <div class="brand">
+                    <span class="brand-mark" aria-hidden="true"><i class="fa-solid fa-seedling"></i></span>
+                    <span>
+                        <span class="brand-name" data-i18n="brand">من البذرة إلى القمر الصناعي</span>
+                        <span class="brand-sub" data-i18n="brand.tag">اختبر خطتك قبل ما تزرع</span>
+                    </span>
+                </div>
+                <p class="note mt-3 max-w-sm" style="color:#b8cfc5" data-i18n="footer.tag">أداة لتقييم الدورات الزراعية على 20 سنة طقس حقيقي من بيانات ناسا.</p>
+            </div>
+
+            <div>
+                <p class="mini-label" style="color:#9dbbb0" data-i18n="footer.links">روابط</p>
+                <a href="#tool" class="footer-link" data-i18n="nav.tool">الأداة</a>
+                <a href="#evidence" class="footer-link" data-i18n="nav.evidence">سنة صعبة حقيقية</a>
+                <a href="#how" class="footer-link" data-i18n="nav.how">إزاي بنحسب</a>
+                <a href="#team" class="footer-link" data-i18n="nav.team">الفريق</a>
+                <a href="methodology.html" class="footer-link" data-i18n="nav.method">المنهجية</a>
+            </div>
+
+            <div>
+                <p class="mini-label" style="color:#9dbbb0" data-i18n="footer.data">البيانات</p>
+                <p class="note" style="color:#b8cfc5" data-i18n="footer.src">بيانات NASA POWER · 2005–2024 · 175 نقطة قياس في مصر.</p>
+                <p class="note mt-2" style="color:#9dbbb0" data-i18n="footer.model">النموذج v1.0</p>
+            </div>
+        </div>
+
+        <div class="mt-7 pt-4 flex flex-col sm:flex-row gap-2 justify-between note" style="border-top:1px solid rgba(255,255,255,0.14); color:#9dbbb0">
+            <p class="num">NASA POWER · 2005–2024 · MODEL v1.0</p>
+            <p>&copy; 2026 — <span data-i18n="brand">من البذرة إلى القمر الصناعي</span></p>
+        </div>
+    </div>
+</footer>    <script src="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/js/i18n.js?t=css_y254_67311977&w=12644058"></script>
+    <script src="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/js/climateData.js?t=css_y254_67311977&w=12644058"></script>
+    <script src="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/js/model.js?t=css_y254_67311977&w=12644058"></script>
+    <script src="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/js/app.js?t=css_y254_67311977&w=12644058"></script>
+    <script src="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/js/home.js?t=css_y254_67311977&w=12644058"></script>
+    <script src="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/js/tool.js?t=css_y254_67311977&w=12644058"></script>
+    <script src="https://cdn-cms-s-8-4.f-static.net/manager/ai_app_builder/v3/assets/js/assistant.js?t=css_y254_67311977&w=12644058"></script>
+<script>var packageNUM=1;</script><div id="showSmallAdOnScroll" class="upgrade-website-preview-helper style2 static" style="--free-app-banner-lead-color: #0583F2;"><button type="button" class="s123-ads-banner-close-link s123-ads-banner-toolbar-icon" aria-label="إغلاق"><svg class="s123-ads-banner-close-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M2.5 2.5l7 7m0-7l-7 7"/></svg></button><a rel="nofollow" target="_blank" href="https://ar.site123.com/?utm_source=user-app&utm_medium=powered-by-ad-ar&utm_content=all&utm_campaign=all"><span class="s123-b-b-s-1">تم عمل هذا الموقع بواسطة </span><img src="https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/ads/site123/brand_kit_2026/SITE123-Logo-2026/png/site123-logo-black.png?v=vc1794491848" style="height:21px;width:auto;vertical-align:middle;"><span class="free-app-banner-cta-wrap"><span class="site123link hidden-xs free-app-banner-cta">قم بتصميم موقعك الآن. >></span></span></a><button type="button" class="s123-ads-banner-abuse-link" aria-label="بلغ عن سوء معاملة"><span class="site123link hidden-xs s123-ads-banner-abuse-label" style="border: 0;font-size: 9px;">بلغ عن سوء معاملة</span><span class="site123link s123-ads-banner-abuse-mobile-label" aria-hidden="true">بلغ عن سوء معاملة</span></button></div><script src="https://cdn-cms-s-8-4.f-static.net/manager/translation_JS/website_jsTranslations.js?l=ar&a=1&v=vc1794491848" crossorigin="anonymous"></script><script>var siteRefTxt="PDaFa7RBx34wDXyYFUv0p1liU2xHSm9pazJCRXJYbnhaYW5Bc0E9PQ==";</script><script src="https://cdn-cms-s-8-4.f-static.net/versions/2/system_mini/js/minimize_appBuilder_scripts_v3.js?v=vc1794491848" crossorigin="anonymous"></script><script src="https://cdn-cms-s-8-4.f-static.net/versions/2/system_mini/js/minimize_appBuilderStatistics_scripts_v3.js?v=vc1794491848" crossorigin="anonymous"></script></body>
+</html>
